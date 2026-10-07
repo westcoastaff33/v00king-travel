@@ -1,4 +1,4 @@
-# v00king-travel
+# v00king Travel
 
 Travel planning without the stress.
 
